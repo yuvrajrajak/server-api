@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "3397ef44-75e0-4752-bcc3-14359713c1ff",
+      "name": "Albert Einstien",
+      "email": "Albert@gmail.com"
+    },
+    {
+      "id": "6f224998-f544-40c7-9b5f-15c10f6bfad7",
+      "name": "Sir Isac Newton",
+      "email": "newtonisac@gmail.com"
+    },
+    {
+      "id": "3dddcc28-79c8-49a4-952d-c7c2a5baf8fe",
+      "name": "Jhon Doe",
+      "email": "doejhon@outlook.com"
+    }
+  ]
+}
